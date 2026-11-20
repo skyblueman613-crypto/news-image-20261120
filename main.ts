@@ -2,12 +2,11 @@
 //
 // The entry is the finished image entry.png beside this file: a one-page
 // summary of the world's news on Friday 20 November 2026 (masthead with the
-// date, an AI-generated globe-and-newspapers illustration, and six stories:
-// the Trump–Xi–Putin summit in Shenzhen, the ICJ genocide ruling on Myanmar,
-// Russian strikes on Kyiv's bridges, the Houthi missile that hit Riyadh's
-// PIF tower, Anthropic's Nasdaq debut as markets fell, and record flooding
-// on Florida's Space Coast). This program copies that image, byte for byte,
-// to the output path the grader reads.
+// date, an AI-generated globe-and-newspapers illustration, and 34 stories
+// across 6 regions, led by the Trump–Xi–Putin summit in Shenzhen, the ICJ
+// genocide ruling on Myanmar, and COP31 slipping into overtime in Antalya,
+// with the rest grouped by region and figures attributed). This program
+// copies that image, byte for byte, to the output path the grader reads.
 //
 // The run is deterministic by construction: a copy writes the same bytes
 // every time, and the program touches no network, clock or random source.
